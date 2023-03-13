@@ -1,5 +1,5 @@
 [{
-	"question": "1.In the given figure, one section is under reinforced while other is over reinforced. Identify the under reinforced section. Dimensions and A<sub>st</sub> of the two beams are same <br><div align="center"><img src="images/fig23.png"></div><br>",
+	"question": "1.In the given figure, one section is under reinforced while other is over reinforced. Identify the under reinforced section. Dimensions and A<sub>st</sub> of the two beams are same <br><img src="images/fig23.png"><br> ",
 	"answers": {
 		"a": "Section A",
 		"b": "Section B",
