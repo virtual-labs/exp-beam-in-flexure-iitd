@@ -1,48 +1,48 @@
 [{
-	"question": "1.In the given figure, one section is under reinforced while other is over reinforced. Identify the under reinforced section. Dimensions and A<sub>st</sub> of the two beams are same <br><div align="center"><img src="images/fig23.png"></div><br>",
+	"question": "1.What is the design stress of concrete in structures ?",
 	"answers": {
-		"a": "Section A",
-		"b": "Section B",
-		"c": "Both",
-		"d": "Insufficient Data"
+		"a": "0.87f<sub>ck</sub>",
+		"b": "0.446f<sub>ck</sub>",
+		"c": "0.67f<sub>ck</sub>",
+		"d": "f<sub>ck</sub>"
 	},
 	"correctAnswer": "b"
 },
 {
-	"question": "(For question 2-4)A beam has a rectangular cross section with values of various quantities as shown in the given figure. Assuming M25 concrete and Fe415 steel. <br><div align="center"><img src="images/fig24.png"></div><br> 2.Calculate the depth of neutral axis(x<sub>u</sub>).  ",
+	"question": "2.What is the design yield stress of steel ?",
 	"answers": {
-		"a": "167 mm",
-		"b": "172 mm",
-		"c": "162 mm",
-		"d": "180 mm"
+		"a": "0.87f<sub>y</sub>",
+		"b": "0.446f<sub>y</sub>",
+		"c": "0.67f<sub>y</sub>",
+		"d": "f<sub>y</sub>"
 	},
 	"correctAnswer": "a"
-},{
-	"question": "3.Calculate the limiting depth of neutral axis(xumax) for the beam section Roundoff up to two digits.",
-	"answers": {
-		"a": "234 mm",
-		"b": "256 mm",
-		"c": "264 mm",
-		"d": "272 mm"
-	},
-	"correctAnswer": "c"
-},{
-	"question": "4.The type of beam section shown in the above figure-",
+},
+{
+	"question": "3.Which type of section experiences a brittle, sudden failure ?",
 	"answers": {
 		"a": "UR Section",
-		"b": "OR Section",
+		"b": "OR Section ",
 		"c": "Balanced Section",
-		"d": "Insufficient Data"
+		"d": "All of the above"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "b"
 },{
-	"question": "5.Calculate the ultimate moment of resistance(M<sub>u</sub>) for the beam section. Roundoff up to two digits.",
+	"question": "4.In limit state method, x<sub>u</sub>  > x<sub>u,max</sub> represents which type of beam section ? ",
 	"answers": {
-		"a": "218 KNm",
-		"b": "235 KNm",
-		"c": "223 KNm",
-		"d": "210 KNm"
+		"a": "UR Section",
+		"b": "OR Section ",
+		"c": "Balanced Section",
+		"d": "Can't say"
+	},
+	"correctAnswer": "b"
+},{
+	"question": "5.The moment at which the first crack appears on the beam is known as ?",
+	"answers": {
+		"a": "Cracking moment",
+		"b": "Yielding moment",
+		"c": "Ultimate moment",
+		"d": "None"
 	},
 	"correctAnswer": "a"
-}
-]
+}]
