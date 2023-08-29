@@ -1,16 +1,48 @@
 [{
-	"question": "1.This is a sample question:",
+	"question": "1.What is the design stress of concrete in structures ? ",
 	"answers": {
-		"a": "This is a sample answer A",
-		"b": "This is a sample answer B"
+		"a": "0.87f<sub>ck</sub>",
+		"b": "0.446f<sub>ck</sub>",
+		"c": "0.67f<sub>ck</sub>",
+		"d": "f<sub>ck</sub>"
+	},
+	"correctAnswer": "b"
+},
+{
+	"question": "2.What is the design yield stress of steel ?",
+	"answers": {
+		"a": "0.87f<sub>y</sub>",
+		"b": "0.446f<sub>y</sub>",
+		"c": "0.67f<sub>y</sub>",
+		"d": "f<sub>y</sub>"
 	},
 	"correctAnswer": "a"
-}, {
-	"question": "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",
+},
+{
+	"question": "3.Which type of section experiences a brittle, sudden failure ?",
 	"answers": {
-		"a": "<img src='images/1b.png'>",
-		"b": "<img src='images/1a.png'>",
-		"c": "<img src='images/1c.PNG'>"
+		"a": "UR Section",
+		"b": "OR Section ",
+		"c": "Balanced Section",
+		"d": "All of the above"
 	},
-	"correctAnswer": "c"
+	"correctAnswer": "b"
+},{
+	"question": "4.In limit state method, x<sub>u</sub>  > x<sub>u,max</sub> represents which type of beam section ? ",
+	"answers": {
+		"a": "UR Section",
+		"b": "OR Section ",
+		"c": "Balanced Section",
+		"d": "Can't say"
+	},
+	"correctAnswer": "b"
+},{
+	"question": "5.The moment at which the first crack appears on the beam is known as ?",
+	"answers": {
+		"a": "Cracking moment",
+		"b": "Yielding moment",
+		"c": "Ultimate moment",
+		"d": "None"
+	},
+	"correctAnswer": "a"
 }]
