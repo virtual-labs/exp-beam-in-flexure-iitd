@@ -1,88 +1,61 @@
-<h4>Basic Guildelines For Conducting The Experiment</h4>
-The beam section shown below is prepared for casting and conducting the experiment-
-Dimensions of the beam  = L’*b*D  = ( 2000x150x200 )mm<sup>3</sup>
+<h4>Basic Guidelines For Conducting The Experiment</h4>
+The beam section shown below is prepared for experimenting-
 <br>
 <div align="center"><img src="images/fig18.png"></div>
 <br>
+Recommended values for beam specimen:
+<br>Steel grade		= Fe500
+<br>Concrete grade	= M20
+<br>L’ 	= 2000 mm
+<br>L	= 1800 mm
+<br>b 	= 150 mm
+<br>D 	= 200 mm
+<br>A<sub>st</sub>	= 2-12φ
+<br>A<sub>sv</sub> 	= 2 legged 6φ
+<br>s<sub>v</sub> 	= 100 mm c/c
+<br>d 	= 168 mm (20 mm nominal cover)
 
-<div align="center"><img src="images/fig19.png"></div>
 <br>
-  The reinforcement cage is  a system of reinforcement bars used in strengthening the concrete structures. The reinforcement cage used in our experiment is shown below-                                                  
+Specimen Details:
+<br> a)	Beam specimen – 1 nos.
+<br> b)	Concrete cubes (150 mm) for compressive strength test – 3 nos.
+<br> c)	Rebar, same as used in beam specimen – 600 mm (approx.) for tensile strength test.
 
-<br>
-<div align="center"><img src="images/fig20.png"></div>
-<br>
-Cover is the distance between the directly exposed concrete surface to the nearest reinforcement bar.. The cover provided in our experiment is about 25mm.
-Before casting the beam, the reinforcement cage is prepared.  The cage and cover blocks are then placed in the casting mold. The mold is then filled with concrete and finished using a vibration needle and other necessary equipment. The casted beam is then allowed to set and demoulded once it sets. The beam is then cured for around 28 days. Three cube and three flexure beam specimens are also casted along with the UR beam. 
-Before starting the experiment, some additional information is required from various other experiments. The properties and their requirements are listed below -
-
+<br> Instrumentation:
 <ul>
-<li>Compressive Strength of Concrete(f<sub>cm</sub>)
-This property of concrete is obtained from the “Compressive Test of Concrete(Cube)” experiment.<br>
-Material to be casted: 3 Concrete Cube specimen
-                                    ( 150x150x150 ) mm<sup>3</sup>
-  *You can read the test details from our virtual lab Experiment 1
-</li>
-  <li>Flexural Strength of Concrete(f<sub>cr</sub>)
-
-This property of concrete is obtained from the “Flexural Strength Test of Concrete(Beam)” experiment.
-<br>
-Specimen to be casted: Small Beams made of concrete only
-                                       ( 500x100x100 )mm<sup>3</sup>
-</li>
-  <li>
-  Tensile Yield Strength of Steel (f<sub>ym</sub>)
-This property of steel is obtained from the “Reinforcement Bars under Uniaxial Tension” experiment.<br>
-    Material Required: 2 steel bars
-
-  </li>
-  
-</ul>
-
-
-After 28 days, the beam and other concrete specimens are tested for their respective properties. The detailed procedure for UR beam testing is given in the Procedure section. 
-
-
-Instrumentation in UR beam before testing
-<ul>
-  <li>A LVDT is provided at the bottom of the UR beam during testing. This measures the displacements at the bottom of the beam</li>
-  <li>Load cells are connected to the hydraulic jack, which in turn apply load on the beam.</li>
-  <li>The beam is tested using a four point loading setup.</li>
+  <li>A LVDT is provided at the center of the UR beam during testing. This measures the displacements at the center of the beam.</li>
+  <li>Load cells are connected to the hydraulic jack, which in turn applies load on the beam.</li>
+  <li>The beam is tested using a four-point loading setup.</li>
 </ul>
 <br>
 <div align="center"><img src="images/fig21.png"></div>
 <br>
 
-<h4>Procedure</h4>
-<ul>
 
-  <li>Place the beam on the loading frame.</li> 
-
-  <li>Measure and note the depth(D), width(w) and effective length(L) of the beam before starting the experiment.</li> 
-
-  <li>Measure and note the distance between the loading points, supports.</li>
-
-  <li>Apply the load with uniform increment in the load using a hydraulic jet.</li>
-
-  <li>As the cracks appear on the beam, stop increasing the load and mark the cracks.</li>
-
-  <li>Repeat step 5 at least for 3 different loads.</li>
-
-  <li>Increase the load till the failure occurs and then note the failure load.</li>
-
-</ul>
+<h4>Procedure:</h4>
+<br>Determine the compressive strength of concrete: To obtain the mean strength of concrete, cast three cube specimens along with the beam and test them in CTM at the time of testing of the beam and take their sample mean ultimate strength as mean strength (refer to the test to determine compressive strength of concrete for more details).
+<br>Determine tensile strength of steel reinforcement: To obtain the mean yield strength of rebars, perform a tensile test of three rebar specimens at the time of testing of the beam and take their sample mean yield strength as mean yield strength (refer to the test to determine the tension strength of rebar).
+<br>
+To study the flexural behavior of reinforced concrete beam:
+1.	Make reinforced concrete beam formwork with given reinforcement details. Pour concrete into the formwork, compact it with a needle vibrator, and finish the top surface. Remove the formwork after 24 hours and put the beam in water for curing.
+2.	At the time of testing, take the beam specimen out of the water and wipe it with a cloth for surface dry conditions.
+3.	Place the specimen on the loading setup. Ensure an acceptable contact between the specimen and loading points. Install the loading arrangement along with the load cell.
+4.	One dial gauge is installed at the top and middle of the beam to measure the deflection of the beam.
+5.	Measure and note the depth (D), width (b), and effective length (L) of the beam before starting the experiment.
+6.      The load is applied slowly at a uniform rate at 5 kN load increments using a hydraulic jack.
+7.	As the cracks appear on the beam, stop increasing the load and mark the cracks.
+8.	Note the value of deflection reading at various loads till failure.
+9.      Increase the load till the failure occurs and then note the failure load.
 
 <h4>Observations and Calculations</h4>
-Grade of concrete(f<sub>ck</sub>)                         =
-Mean compressive strength of concrete(f<sub>cm</sub>)     =
-Flexural strength of concrete(f<sub>cr</sub>)             =
-Grade of steel(f<sub>y</sub>)                             =
-Mean Yield strength of steel(f<sub>ym</sub>)              =
-Area of tension steel(A<sub>st</sub>)                     =
-Length of Beam Between Supports(L)             =
-Depth of Beam(D)                               =
-Width of Beam(b)                               =
-Young’s Modulus of concrete(E<sub>c</sub>)    (5000√<sub>fcm</sub> ) =
+Grade of concrete (f<sub>ck</sub>)                         =
+Mean compressive strength of concrete (f<sub>cm</sub>)     =
+Grade of steel (f<sub>y</sub>)                             =
+Mean Yield strength of steel (f<sub>ym</sub>)              =
+Area of tension steel (A<sub>st</sub>)                     =
+Length of Beam Between Supports (L)             =
+Depth of Beam (D)                               =
+Width of Beam (b)                               =
 Young’s Modulus of steel(E<sub>s</sub>)                   =
 <ul>
   <li><b>Cracking Moment</b>
