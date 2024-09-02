@@ -9,12 +9,12 @@
 
 | SNo. | Name | Institute |
 | :--: | :-- | :-------: |
-|  1   | Kumar Umang | IIT Delhi |
+|  1   | Mr. Kumar Umang | IIT Delhi |
 
 
 ### Content Developers (Subject matter):
 
 | SNo. | Name | Institute |
 | :--: | :-- | :-------: |
-|  1   | Randeep Singh Sangwan | IIT Delhi |
-|  2   | Samarth Goswami | IIT Delhi |
+|  1   | Mr. Randeep Singh Sangwan | IIT Delhi |
+|  2   | Mr. Samarth Goswami | IIT Delhi |
