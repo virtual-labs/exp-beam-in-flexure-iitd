@@ -55,3 +55,17 @@ As per the limit state design method given in IS-456, the design ultimate moment
 <br>M<sub>ur,predicted</sub> = predicted ultimate moment of resistance
 <br>M<sub>ur,observed</sub> = observed (experimental) ultimate moment of resistance
 
+<h4>Test setup:</h4>
+<br>
+A combination of tensile, compressive, and shear stresses usually determines the strength of the concrete beam when it is subjected to flexure or bending loads. In this test, a four-point (also called third point) loading setup is selected to study the flexural behavior of the concrete beam, as shown in the Fig. 3. 
+ 
+<br>
+<div align="center"><img src="images/fig3.png"></div>
+<br>
+
+The middle portion of the beam is subjected to pure flexure as sheer stress in this region is zero. The bending moment and shear force diagram are shown in the following Fig. 4.
+<br>
+<div align="center"><img src="images/fig4.png"></div>
+<br>
+
+

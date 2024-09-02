@@ -1,5 +1,5 @@
 [{
-	"question": "1.What is the design stress of concrete in structures ? ",
+	"question": "1. What is the allowable design stress of concrete in structures at the Ultimate limit state as per IS-456?",
 	"answers": {
 		"a": "0.87f<sub>ck</sub>",
 		"b": "0.446f<sub>ck</sub>",
@@ -9,7 +9,7 @@
 	"correctAnswer": "b"
 },
 {
-	"question": "2.What is the design yield stress of steel ?",
+	"question": "2. What is the allowable design yield stress of steel at the Ultimate limit state as per IS-456?",
 	"answers": {
 		"a": "0.87f<sub>y</sub>",
 		"b": "0.446f<sub>y</sub>",
@@ -19,7 +19,7 @@
 	"correctAnswer": "a"
 },
 {
-	"question": "3.Which type of section experiences a brittle, sudden failure ?",
+	"question": "3. Which type of RC beam section experiences a brittle, sudden failure?",
 	"answers": {
 		"a": "UR Section",
 		"b": "OR Section ",
@@ -28,7 +28,7 @@
 	},
 	"correctAnswer": "b"
 },{
-	"question": "4.In limit state method, x<sub>u</sub>  > x<sub>u,max</sub> represents which type of beam section ? ",
+	"question": "4. In limit state method, x<sub>u</sub>  > x<sub>u,max</sub> represents which type of beam section? ",
 	"answers": {
 		"a": "UR Section",
 		"b": "OR Section ",
@@ -37,7 +37,7 @@
 	},
 	"correctAnswer": "b"
 },{
-	"question": "5.The moment at which the first crack appears on the beam is known as ?",
+	"question": "5. The moment at which the first crack appears on the beam is known as?",
 	"answers": {
 		"a": "Cracking moment",
 		"b": "Yielding moment",
