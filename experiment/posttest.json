@@ -1,58 +1,62 @@
-[{
-	"question": "1. If the actual neutral axis of a beam lies above the critical neutral axis, then the beam is said to be a/an:",
-	"answers": {
-		"a": "UR Section",
-		"b": "OR Section ",
-		"c": "Balanced Section",
-		"d": "All of the above"
-	},
-	"correctAnswer": "a"
-},
-{
-	"question": "2. A singly reinforced concrete beam of balanced section is made of M20 grade concrete and Fe415 grade steel bars. The magnitudes of the maximum compressive strain in concrete and the tensile strain in the bars at the ultimate state under flexure, as per IS 456 ∶ 2000, are ________, respectively. (round off to four decimal places)",
-	"answers": {
-		"a": "0.0035 and 0.0034",
-		"b": "0.0020 and 0.0018",
-		"c": "0.0035 and 0.0038",
-		"d": "0.0020 and 0.0031"
-	},
-	"correctAnswer": "c"
-},
-{
-	"question": "3. At which point does shear stress is zero in a beam?",
-	"answers": {
-		"a": "Centroid",
-		"b": "Extreme Fibres",
-		"c": "End Points",
-		"d": "At neutral axis"
-	},
-	"correctAnswer": "b"
-},{
-	"question": "4. The partial safety factor for concrete and steel are 1.5 and 1.15, respectively, because",
-	"answers": {
-		"a": "Concrete is heterogeneous, and steel is homogeneous",
-		"b": "Concrete is weak in tension",
-		"c": "The control on the quality of concrete is not as good as that of steel",
-		"d": "Concrete is cheaper than steel"
-	},
-	"correctAnswer": "c"
-},{
-	"question": "5. Plain concrete is strong in",
-	"answers": {
-		"a": "Tension",
-		"b": "Flexure",
-		"c": "Shear",
-		"d": "Compression"
-	},
-	"correctAnswer": "d"
-,{
-	"question": "6. In RC beam, the main reinforcement provided only in the tension zone is called-",
-	"answers": {
-		"a": "Transverse reinforcement beam",
-		"b": "Shear reinforcement beam ",
-		"c": "Singly reinforcement beam ",
-		"d": "Doubly reinforcement beam "
-	},
-	"correctAnswer": "c"
-
-}]
+[
+    {
+        "question": "1. If the actual neutral axis of a beam lies above the critical neutral axis, then the beam is said to be a/an:",
+        "answers": {
+            "a": "UR Section",
+            "b": "OR Section ",
+            "c": "Balanced Section",
+            "d": "All of the above"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "2. A singly reinforced concrete beam of balanced section is made of M20 grade concrete and Fe415 grade steel bars. The magnitudes of the maximum compressive strain in concrete and the tensile strain in the bars at the ultimate state under flexure, as per IS 456 ∶ 2000, are ________, respectively. (round off to four decimal places)",
+        "answers": {
+            "a": "0.0035 and 0.0034",
+            "b": "0.0020 and 0.0018",
+            "c": "0.0035 and 0.0038",
+            "d": "0.0020 and 0.0031"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "3. At which point does shear stress is zero in a beam?",
+        "answers": {
+            "a": "Centroid",
+            "b": "Extreme Fibres",
+            "c": "End Points",
+            "d": "At neutral axis"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "4. The partial safety factor for concrete and steel are 1.5 and 1.15, respectively, because",
+        "answers": {
+            "a": "Concrete is heterogeneous, and steel is homogeneous",
+            "b": "Concrete is weak in tension",
+            "c": "The control on the quality of concrete is not as good as that of steel",
+            "d": "Concrete is cheaper than steel"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "5. Plain concrete is strong in",
+        "answers": {
+            "a": "Tension",
+            "b": "Flexure",
+            "c": "Shear",
+            "d": "Compression"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "6. In RC beam, the main reinforcement provided only in the tension zone is called-",
+        "answers": {
+            "a": "Transverse reinforcement beam",
+            "b": "Shear reinforcement beam ",
+            "c": "Singly reinforcement beam ",
+            "d": "Doubly reinforcement beam "
+        },
+        "correctAnswer": "c"
+    }
+]
