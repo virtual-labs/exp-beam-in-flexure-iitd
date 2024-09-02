@@ -1,1 +1,1 @@
-To study the behavior of an Under Reinforced (UR) concrete beam under flexure.
+To study the behavior of an under reinforced (UR) concrete beam under flexure.
